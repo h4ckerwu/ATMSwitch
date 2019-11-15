@@ -1,20 +1,5 @@
 /**********************************************************************
  * Functional coverage code
- *
- * Author: Chris Spear
- * Revision: 1.01
- * Last modified: 8/2/2011
- *
- * (c) Copyright 2008-2011, Chris Spear, Greg Tumbush. *** ALL RIGHTS RESERVED ***
- * http://chris.spear.net
- *
- *  This source file may be used and distributed without restriction
- *  provided that this copyright statement is not removed from the file
- *  and that any derivative work contains this copyright notice.
- *
- * Used with permission in the book, "SystemVerilog for Verification"
- * By Chris Spear and Greg Tumbush
- * Book copyright: 2008-2011, Springer LLC, USA, Springer.com
  *********************************************************************/
 
 `ifndef COVERAGE__SV
